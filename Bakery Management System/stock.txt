@@ -1,0 +1,1 @@
+{'Buns': [0, 10], 'Rolls': [0, 15], 'Biscuits': [0, 15], 'Breads': [0, 25], 'Cookies': [0, 50], 'Cake': [0, 500], 'Pizza': [0, 500], 'Snack': [0, 50]}
