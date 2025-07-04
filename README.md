@@ -1,7 +1,3 @@
-Got it! Here's the updated `README.md` with `main.py` replaced by `sc.py`:
-
----
-
 # Bakery Management System
 
 This is a Command-Line Interface (CLI) project built using Python. It helps bakery shop owners manage their daily tasks like billing, stock management, and transactions. I created this project during my school days using simple file handling in Python.
@@ -61,7 +57,3 @@ project-folder/
 ## License
 
 This project is open-source and free to use for learning purposes.
-
----
-
-Let me know if you want a Hindi version or any extra sections added!
